@@ -8,14 +8,16 @@ I'm currently studying Informatics Engineering at UCA (third year out of five).
 </p>
 
 ### 🛠️ What I'm working with
-Through my coursework and personal projects, I've built a solid foundation in:
-*   **Languages:** Python, Java, C, JavaScript, HTML/CSS, and SQL
-*   **Frameworks & Concepts:** Flask, UML and software design
+Through my university coursework and personal projects, I've built a strong engineering foundation:
+*   **Programming & Architecture:** Python, Java (OOP), C, JavaScript, HTML/CSS, SQL, and UML.
+*   **Networking:** OSI & TCP/IP models, Subnetting, Routing & Switching, and Sockets.
+*   **Engineering Fundamentals:** Calculus, Linear Algebra, Probability & Statistics, and Physics.
+*   **Methodologies & Languages:** Basics of SCRUM | Fluent in Spanish and English.
 
 ### 🎯 Where I'm heading
-Right now, my main goal is to specialize in **Cyber Security**. I'm fascinated by how systems are protected (and broken into!). 
+Right now, my main goal is to specialize in **Cyber Security**. My extensive coursework in Communication Networks gave me a deep look into how the internet works under the hood, and I'm fascinated by how those systems are protected (and broken into!). 
 
-I also have a strong curiosity about **AI and Robotics**. I don't have hands-on experience in these fields just yet, but I'm eager to explore them as I continue my studies. 
+I also have a strong curiosity about **AI and Robotics**. While I don't have hands-on experience in these fields just yet, my heavy engineering background in math and physics has given me the perfect foundation to explore the algorithms and logic behind them as I progress through my degree.
 
 ### 📫 Let's Connect
 For now, the best way to see what I'm up to is right here on GitHub. Feel free to explore my repositories!
