@@ -20,4 +20,9 @@ Right now, my main goal is to specialize in **Cyber Security**. My extensive cou
 I also have a strong curiosity about **AI and Robotics**. While I don't have hands-on experience in these fields just yet, my heavy engineering background in math and physics has given me the perfect foundation to explore the algorithms and logic behind them as I progress through my degree.
 
 ### 📫 Let's Connect
-For now, the best way to see what I'm up to is right here on GitHub. Feel free to explore my repositories!
+I am currently open to networking, discussing cybersecurity, and exploring internship opportunities. 
+
+* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/liam-chomik-0686853b3/)
+* ✉️ Reach out via [Email](mailto:liamchomik@gmail.com)
+
+Feel free to explore my pinned repositories below to see what I've been building!
