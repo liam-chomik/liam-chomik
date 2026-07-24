@@ -25,4 +25,4 @@ I am currently open to networking, discussing cybersecurity, and exploring inter
 * 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/liam-chomik-0686853b3/)
 * ✉️ Reach out via [Email](mailto:liamchomik@gmail.com)
 
-Feel free to explore my pinned repositories below to see what I've been building!
+I'm always happy to talk tech, cybersecurity, or new opportunities — feel free to reach out!
