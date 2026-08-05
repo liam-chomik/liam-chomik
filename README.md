@@ -22,7 +22,6 @@ I also have a strong curiosity about **AI and Robotics**. While I don't have han
 ### 📫 Let's Connect
 I am currently open to networking, discussing cybersecurity, and exploring internship opportunities. 
 
-* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/liam-chomik-0686853b3/)
 * ✉️ Reach out via [Email](mailto:liamchomik@gmail.com)
 
 I'm always happy to talk tech, cybersecurity, or new opportunities — feel free to reach out!
